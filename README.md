@@ -12,9 +12,8 @@ Análise e Desenvolvimento de Sistemas - 4ª Fase
   ##
 
 <div>
-  <a href="https://github.com/pdropaullo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pdropaullo&theme=chartreuse-dark&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdropaullo&layout=compact&langs_count=16&theme=chartreuse-dark">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdropaullo)](https://github.com/pdropaullo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdropaullo&layout=compact)](https://github.com/pdropaullo/github-readme-stats)
 </div>
   
   ##
