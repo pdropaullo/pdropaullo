@@ -13,7 +13,7 @@ Análise e Desenvolvimento de Sistemas - 5ª Fase
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdropaullo&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdropaullo&theme=dark&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdropaullo&theme=dark" />
