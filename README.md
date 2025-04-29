@@ -2,11 +2,10 @@
 Análise e Desenvolvimento de Sistemas - 5ª Fase
 <div>
   <a href="https://linktr.ee/pdropaullo" target="_blank"><img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/15NbS4twgPmKwVbfIamDHUe1yIQLMDaXp/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Curriculo-808080?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/16JvfSHashajh2_1jhrMEa-l_toLxdHU_/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Curriculo-808080?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pdropaullo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5548991367427" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
-<a href="mailto:pedroabreu11@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-127CD6?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/pdropaullo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedroabreu11@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-127CD6?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 </div>
   
   ##
